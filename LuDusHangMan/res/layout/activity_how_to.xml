@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF000000" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true"
+        android:src="@drawable/hang_menubk" />
+
+        <TextView
+            android:id="@+id/howToPlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="37dp"
+            android:paddingLeft="0dp"
+            android:paddingTop="0dp"
+            android:text="@string/how_to_play"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#FFFFFFFF"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/playtxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="37dp"
+        android:text="@string/playtxt"
+        android:textColor="#FFFFFFFF"
+        android:layout_marginTop="46dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/returnToMain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="75dp"
+        android:text="Return To Menu"
+        android:textColor="#FFFFFFFF"
+        android:textSize="40sp"
+        android:textStyle="normal"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="62dp" />
+
+
+</RelativeLayout>

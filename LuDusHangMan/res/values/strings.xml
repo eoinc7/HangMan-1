@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Hangman</string>
+	<string name="action_settings">Settings</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="gallows">The Gallows</string>
+	<string name="head">The Head</string>
+	<string name="body">The Body</string>
+	<string name="arm">An Arm</string>
+	<string name="leg">A Leg</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="playtxt">Try to guess each letter of the word within your limited amount of guesses.\nIf that letter is in the word the letter will appear on the blackboard.If the letter is not in the word then a body part is added to the gallows (head, body, left arm, right arm, left leg, right leg).\nYou must continue guessing letters until you can either solve the word or all six body parts are on the gallows.\n\nTO WIN: The guesser wins if they guess the word before the person is hung.</string>
+
+</resources>

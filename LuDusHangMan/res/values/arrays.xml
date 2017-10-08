@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="words">
+		<item>ANDROID</item>
+		<item>METALLICA</item>
+		<item>JAVA</item>
+		<item>INTERNET</item>
+		<item>ONEPIECE</item>
+		<item>WARCRAFT</item>
+		<item>VALHALLA</item>
+		<item>DRAGON</item>
+		<item>BATMAN</item>
+		<item>SMARTPHONE</item>
+	</string-array>
+	
+		<string-array name="hints">
+		<item>A popular mobile computing platform</item>
+		<item>JAMES</item>
+		<item>Programming language</item>
+		<item>A network of networks</item>
+		<item>GOMU GOMU NO PISTOL!!!)</item>
+		<item>Really bad blizzard game, well kinda!</item>
+		<item>Viking resting place when dead..</item>
+		<item>Mytical BEAST of sorts</item>
+		<item>QQ my parents died, and now i fight crime</item>
+		<item>A device used to look at sexy pronze</item>
+	</string-array>
+	
+	
+</resources>
